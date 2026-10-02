@@ -1,4 +1,4 @@
 # demo
 This is my first repo.
 <br>
-Author-Trideep Chakraborty
+Author-Soumya chakraborty (Trideep/Soumya)
